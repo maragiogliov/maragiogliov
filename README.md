@@ -10,11 +10,11 @@ I also do Illustrations in my free time. I recently graduate and I'm looking for
 
 >>>>>>> 
 
-I normally go with MERN STACK ARCHITECTURE since was the one we learned (and still learning) but also willing to learn other types of languages and frameworks.
+I normally go with ✨ MERN STACK ARCHITECTURE✨ since was the one we learned (and still learning) but also willing to learn other types of languages and frameworks.
 
 I like to develop the first stage of the product using Agile Methodologies and after discovering the Key Players, HMW, and first frames of the application (and hundred other stuff), then I use Figma to prototype the UX/UI... prior to that, coding might be a mistake.
 
-When working in a team I use Git and Slack or whatever it takes.
+When working in a team I use Git and Slack.
 
 
 - 🔭 I’m currently working on : My Portfolio
