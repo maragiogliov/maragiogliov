@@ -3,7 +3,7 @@ My name is Victor Maragioglio
 I'm a Full Stack Web Developer
 Based in Berlin, Germany
 
-<<<<<<< HEAD
+
 I have a background in Architectural Design and Urban Planning
 I also do Illustrations in my free time. I recently graduate and I'm looking for my first professional experience as Developer (internships).
 =======
