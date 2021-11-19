@@ -24,7 +24,7 @@ When working in a team I use Git and Slack.
 - 💬 Ask me about : The Hill of the Elimis
 - 📫 How to reach me : nonexistentdodo@protonmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fact : I speak Spanish - Italian - English and bad German
+- ⚡ Fact : I speak Spanish - Italian - English and some German
 
 <!--
 **nonexistentdodo/nonexistentdodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
