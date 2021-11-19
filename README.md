@@ -17,9 +17,9 @@ I like to develop the first stage of the product using Agile Methodologies and a
 When working in a team I use Git and Slack.
 
 
-- 🔭 I’m currently working on : My Portfolio
+- 🔭 I’m currently working on : Personal Portfolio
 - 🌱 I’m currently learning : React.js
-- 👯 I’m looking to collaborate on : some product that don't collaborate to pollute the plane earth, or something alike.
+- 👯 I’m looking to collaborate on : sustainable products
 - 🤔 I’m looking for help with : job applications.
 - 💬 Ask me about : The Hill of the Elimis
 - 📫 How to reach me : nonexistentdodo@protonmail.com
