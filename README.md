@@ -5,7 +5,7 @@ Based in Berlin, Germany.
 
 >>>>>>> 
 
-I go with ✨ MERN STACK ✨ since was the one we learned (and still learning) but also willing to learn other types of languages and frameworks.
+I go with ✨ MERN STACK ✨ since was the one I learned (and still learning) but also willing to learn other types of languages and frameworks.
 I like to work  in a project when the first stage of the product is develop using Agile Methodologies and Figma to prototype the app; that give developers a clear background of the scope and expectations of designers and investors.
 
 When working in a team I use Git and Slack or any tool that facilitate comunication channels.
