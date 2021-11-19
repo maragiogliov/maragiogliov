@@ -5,7 +5,7 @@ Based in Berlin, Germany
 
 
 I have a background in Architectural Design and Urban Planning
-I also do Illustrations in my free time. I recently graduate and I'm looking for my first professional experience as Developer (internships).
+
 =======
 
 >>>>>>> 
