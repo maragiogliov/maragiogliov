@@ -6,9 +6,9 @@ Based in Berlin, Germany.
 >>>>>>> 
 
 I go with ✨ MERN STACK ✨ since was the one we learned (and still learning) but also willing to learn other types of languages and frameworks.
-I like to develop the first stage of the product using Agile Methodologies and after discovering the Key Players, HMW, and first frames of the application (and hundred other stuff), then I use Figma to prototype the UX/UI... prior to that, coding might be a mistake.
+I like to work  in a project when the first stage of the product is develop using Agile Methodologies and Figma to prototype the app; that give developers a clear background of the scope and expectations of designers and investors.
 
-When working in a team I use Git and Slack.
+When working in a team I use Git and Slack or any tool that facilitate comunication channels.
 
 - 🔭 I’m currently working on : Personal Portfolio
 - 🌱 I’m currently learning : React.js
