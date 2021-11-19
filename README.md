@@ -13,7 +13,7 @@ When working in a team I use Git and Slack or any tool that facilitate comunicat
 - 🔭 I’m currently working on : Personal Portfolio
 - 🌱 I’m currently learning : React.js
 - 👯 I’m looking to collaborate on : Sustainable products
-- 🤔 I’m looking for help with : Job applications.
+- 🤔 I’m looking for help with : Job applications
 - 💬 Ask me about : The Hill of the Elimis
 - 📫 How to reach me : nonexistentdodo@protonmail.com
 - 😄 Pronouns: he/him
