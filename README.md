@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Victor Maragioglio
+My name is Victor Maragioglio,
 Software Developer based in Berlin, Germany.
 
 >>>>>>> 
@@ -12,8 +12,8 @@ Software Developer based in Berlin, Germany.
 
 visit my website / art portfolio https://www.nonexistentdodo.art/
 
-Have a good day
-Victor
+Have a good day, 
+
 
 <!--
 **nonexistentdodo/nonexistentdodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
