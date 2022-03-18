@@ -10,7 +10,6 @@ Software Developer based in Berlin, Germany.
 - 📫 How to reach me : nonexistentdodo@protonmail.com
 - ⚡ Languages :  English - Spanish - Italian 
 
-Visit my website: https://www.nonexistentdodo.art/
 
 Have a good day, 
 
