@@ -7,7 +7,7 @@ Software Developer based in Berlin, Germany.
 - 🔭 I’m currently working on : React applications
 - 🌱 I’m currently learning : UX Design 
 - 💬 You can ask me about : The Hill of the Elimis
-- 📫 How to reach me : nonexistentdodo@protonmail.com
+- 📫 How to reach me : maragiogliov@protonmail.com
 - ⚡ Languages :  English - Spanish - Italian 
 
 
