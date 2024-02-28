@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Victor Maragioglio,
-Software Developer based in Berlin, Germany.
+Web Developer based in Berlin, Germany.
 
 >>>>>>> 
 
