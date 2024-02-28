@@ -4,7 +4,7 @@ Software Developer based in Berlin, Germany.
 
 >>>>>>> 
 
-- 🔭 I’m currently working on : React applications
+- 🔭 I’m currently working on : Shopify Liquid applications
 - 🌱 I’m currently learning : UX Design 
 - 💬 You can ask me about : The Hill of the Elimis
 - 📫 How to reach me : maragiogliov@protonmail.com
