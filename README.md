@@ -4,11 +4,11 @@ Web Developer based in Berlin, Germany.
 
 >>>>>>> 
 
-- 🔭 I’m currently working on : Shopify Liquid applications
+- 🔭 I’m currently working on : MERN + GSAP
 - 🌱 I’m currently learning : UX Design 
 - 💬 You can ask me about : The Hill of the Elimis
-- 📫 How to reach me : maragiogliov@protonmail.com
-- ⚡ Languages :  English - Spanish - Italian 
+- 📫 How to reach me : info@victormaragioglio.com
+- ⚡ Languages :  English - Spanish - Italian - A1 German
 
 
 Have a good day, 
