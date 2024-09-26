@@ -4,7 +4,7 @@ Web Developer based in Germany.
 
 >>>>>>> 
 
-- 🔭 I’m currently working on : REACT & GSAP
+- 🔭 I’m currently working with : REACT & GSAP
 - 💬 You can ask me about : The Hill of the Elimis
 
 Have a good day, 
