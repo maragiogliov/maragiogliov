@@ -1,15 +1,11 @@
 ### Hi there 👋
-My name is Victor Maragioglio,
+My name is Victor,
 Web Developer based in Germany.
 
 >>>>>>> 
 
-- 🔭 I’m currently working on : MERN + GSAP
-- 🌱 I’m currently learning : UX Design 
+- 🔭 I’m currently working on : REACT & GSAP
 - 💬 You can ask me about : The Hill of the Elimis
-- 📫 How to reach me : info@victormaragioglio.com
-- ⚡ Languages :  English - Spanish - Italian - A1 German
-
 
 Have a good day, 
 
